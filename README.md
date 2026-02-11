@@ -29,5 +29,7 @@ I enjoy turning messy data into clear insights, dashboards, and models that actu
 - Google Cloud computing (Azure)
 - Databricks
   
-- 📫 How to reach me: Click on my profile to connect with me on LinkedIn.
-- ⚡ Fun fact: ...
+📫 How to reach me Click on my profile to connect with me on LinkedIn.
+
+
+⚡## Fun fact ## You might consider me the Swiss-Army-Knife of hires – adaptable, flexible, and packed to the brim with utility. A skill set I believe has a place in your work.
