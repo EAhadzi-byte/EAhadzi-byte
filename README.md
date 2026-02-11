@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I am Emmanuel Saka Ahadzi👋 
+  Data Science || Risk Analyst || Data Analyst
 
-<!--
-**EAhadzi-byte/EAhadzi-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ABOUT ME ##
+I started my career as a Financial Accountant, working with numbers every day — but I became curious about the stories behind the numbers, not just the reports. That curiosity pushed me into data science, where I now build projects around risk, finance, and real-world analytics.
+I enjoy turning messy data into clear insights, dashboards, and models that actually help people make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## I'm currently Working On ##
+🔭
+- Credit Risk Modelling
+- Market Risk (VaR)
+- Most Stream and Song popularity prediction on sportify, 2024. End - End ML project.
+
+## Professional Skills ##
+  ## Programming & Querying 
+- Python
+- SQL
+- R
+
+   ## Data Science
+- Machine Learning
+- Deep learning
+- Data Analysis and Visualisation
+
+   ## Data & BI tools
+- Tableau
+- Hadoop(Basic)
+- Google Cloud computing (Azure)
+- Databricks
+  
+- 📫 How to reach me: Click on my profile to connect with me on LinkedIn.
 - ⚡ Fun fact: ...
--->
