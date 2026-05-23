@@ -8,9 +8,9 @@ I enjoy turning messy data into clear insights, dashboards, and models that actu
 
 ## I'm currently Working On ##
 🔭
-- Credit Risk Modelling
-- Market Risk (VaR)
-- Most Stream and Song popularity prediction on sportify, 2024. End - End ML project.
+- AI Driven Sales forcasting and Inventory Optimization
+- Learning Applied AI
+- Explainable AI for Credit Risk predition using ML and NLP. End - End ML project.
 
 ## Professional Skills ##
   ## Programming & Querying 
@@ -24,7 +24,7 @@ I enjoy turning messy data into clear insights, dashboards, and models that actu
 - Data Analysis and Visualisation
 
    ## Data & BI tools
-- Tableau
+- Tableau | Power BI
 - Hadoop(Basic)
 - Google Cloud computing (Azure)
 - Databricks
